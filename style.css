@@ -7,16 +7,17 @@ html{
     border: 0;
     border-radius: 10px;
     color: white;
- }
- .calc-button-double{
-    background-color: orange;
+}
+.calc-button-double{
+    background-color: rgb(190, 190, 190);
+    color: black;
+}
+.screen{
     color: white;
-    border: 0;
-    border-radius: 10px;
- }
- .wrapper{
+}
+.calc-operator{
+    background-color: #ffa200;
+}
+.wrapper{
     background-color: black;
- }
- .screen{
-    color: white;
- }
+}

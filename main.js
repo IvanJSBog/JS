@@ -15,7 +15,7 @@ function buttonClick(value){
 
 function handleSymbol(symbol) {
     switch (symbol) {
-        case "C":
+        case "AC":
             buffer = "0"
             runningTotal = 0
             break
