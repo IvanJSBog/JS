@@ -1,0 +1,22 @@
+html{
+    box-sizing: border-box;
+    height: 100%;
+}
+.calc-button{
+    background-color: rgb(68, 68, 68);
+    border: 0;
+    border-radius: 10px;
+    color: white;
+ }
+ .calc-button-double{
+    background-color: orange;
+    color: white;
+    border: 0;
+    border-radius: 10px;
+ }
+ .wrapper{
+    background-color: black;
+ }
+ .screen{
+    color: white;
+ }
